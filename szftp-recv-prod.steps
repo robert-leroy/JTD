@@ -1,4 +1,0 @@
-cd /Prod/Out
-mget *
-delete *
-quit
