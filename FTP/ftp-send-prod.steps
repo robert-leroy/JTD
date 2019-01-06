@@ -1,4 +1,0 @@
-cd /send
-get /command/standard=NONE NUL.NUL
-get /command/parm=SA=SBZRO_TIS_SFTP;RA=SBZROGXS_SFTP;DOC=AR_CRED_74 NUL.NUL
-mput ./send/*.txt
