@@ -1,0 +1,3 @@
+get /command/filenamemode=sender_only NUL.NUL
+cd /receive
+mget *
