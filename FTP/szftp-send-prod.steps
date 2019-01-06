@@ -1,0 +1,3 @@
+cd /prod/in
+mput ./send/*.txt
+quit
